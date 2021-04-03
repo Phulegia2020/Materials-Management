@@ -1,0 +1,153 @@
+
+PTIT28
+Lam Bao
+An
+0
+PTIT23
+Nguyen Cong
+An
+0
+PTIT16
+Vo Truong
+An
+1
+PTIT39
+Pham Nhat
+Anh
+1
+PTIT34
+Ngo Gia
+Bao
+0
+PTIT36
+Ngo Bao
+Chau
+0
+PTIT04
+Doan Van
+Cuong
+0
+PTIT13
+Vo Le Quoc
+Dung
+1
+PTIT19
+Nguyen Quang
+Hai
+0
+PTIT06
+Tran Thi
+Hien
+1
+PTIT44
+Pham Ngoc
+Hoa
+1
+PTIT07
+Nguyen Thi
+Hoai
+1
+PTIT14
+Ha Duc
+Hung
+1
+PTIT21
+Nguyen Bao
+Khanh
+0
+PTIT32
+Pham Hong
+Khanh
+1
+PTIT17
+Bui Duy
+Khoa
+1
+PTIT31
+Tran Phuoc
+Khoa
+1
+PTIT35
+Luu Gia
+Kiet
+0
+PTIT04
+Ho Phuong
+Lanh
+1
+PTIT33
+Man Manh
+Loc
+1
+PTIT41
+Vo Ngoc
+Minh
+0
+PTIT27
+To Thanh
+Nhan
+1
+PTIT24
+Ta Quynh
+Nhu
+1
+PTIT05
+Le Kim
+Oanh
+1
+PTIT11
+Lam Hoai
+Phu
+0
+PTIT131
+Le Gia Bao
+Phu
+0
+PTIT18
+Nguyen Cong
+Phuong
+0
+PTIT08
+Vuong Thu
+Phuong
+1
+PTIT38
+Phan Manh
+Quynh
+0
+PTIT40
+Ho Manh
+Tai
+0
+PTIT09
+Bui Thi
+Tam
+1
+PTIT03
+Dang Thanh
+Tam
+0
+PTIT01
+Tran Van
+Tam
+0
+PTIT42
+Ba Thi
+Tan
+1
+PTIT02
+Dang Van
+Thanh
+0
+PTIT15
+Bui Ngoc
+Tuan
+0
+PTIT30
+Ly Anh
+Tuan
+0
+PTIT26
+Ngo Hai
+Yen
+1

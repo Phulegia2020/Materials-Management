@@ -1,0 +1,185 @@
+
+CATBT
+Cat Be Tong
+M3
+5900
+AOTT
+Ao The Thao
+Cai
+9760
+AOTHUN
+Ao Thun
+Chiec
+0
+CAT
+Cat
+Khoi
+100
+CAOGOT
+Giay Cao Got
+Doi
+250
+CATXAY
+Cat xay
+M3
+700
+DA1X2
+Da 1x2
+M3
+36
+GACHDINH
+Gach dinh 4x4x18
+Vien
+46979
+DATCAT
+Dat Cat
+Khoi
+500
+KEMDA
+Kem Da
+Cay
+800
+GACHNGOI
+Gach Ngoi
+Vien
+9400
+KEM
+Kem
+Cay
+157
+GTT
+Giay The Thao
+Doi
+1190
+GHESOFA
+Ghe Sofa
+Chiec
+100
+THEP12
+Thep 12
+Khoi
+1880
+KEPONG
+Kep Ong
+Cai
+5000
+SATDEO
+Sat Deo
+Kg
+1
+QUATDIEN
+Quat Dien
+Cai
+200
+PHOITHEP
+Phoi Thep
+Kg
+1000
+MAYHAN
+May Han
+Chiec
+12000
+MAYDET
+May Det
+Cai
+36
+MAYCUOC
+May Cuoc Dat
+Chiec
+100
+MAYTIEN
+May Tien
+Cai
+50
+NONLT
+Non Luoi Trai
+Cai
+500
+QUANJEAN
+Quan Jean
+Chiec
+100
+QSHORT
+Quan short
+Cai
+500
+THATLUNG
+That Lung
+Cai
+200
+XETAICT
+Xe Tai Cong Truong
+Chiec
+11
+THEPGANG
+Thep Gang
+Ong
+1200
+THEPCUON
+Thep Cuon
+Ong
+1200
+THEPCT
+Thep Che Tao
+Kg
+120
+THEPCN
+Thep Can Nguoi
+Chiec
+20
+THEPDC
+Thep Dung Cu
+M
+20
+XETAI
+Xe Tai
+Chiec
+100
+XELU
+Xe Lu
+Cai
+100
+THEPPHOI
+Thep Phoi
+Cai
+1230
+THEPLA
+Thep La Cuon
+Chiec
+340
+THEPTHANH
+Thep Thanh Tron
+Cai
+340
+XEBEN
+Xe Ben
+Chiec
+22
+XE4CHO
+Xe 4 Cho
+Chiec
+18
+XECAU
+Xe Can Cau
+Chiec
+10
+XECANCAU
+Xe Can Cau
+Cai
+432
+XMHATIEN
+Xi Mang Ha Tien
+Bao
+300
+XEUI
+Xe Ui
+Chiec
+236
+XETRON
+Xe Tron
+Chiec
+40
+XETAITO
+Xe Tai Loai To
+Chiec
+320
