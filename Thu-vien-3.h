@@ -173,7 +173,7 @@ struct NhanVien
 	string ho;
 	string ten;
 	int phai;
-	NODE_HD *dshd;//-->LIST_HD *dshd
+	NODE_HD *dshd;
 };
 typedef struct NhanVien NHAN_VIEN;
 
